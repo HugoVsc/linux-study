@@ -57,3 +57,6 @@ git clone https://github.com/usuario/repositorio.git
 - nano = editor de texto simples
 - Salvar texto Nano = Ctrl + O
 - Sair Nano = Crtl + X
+- cp = copiar arquivos e diretorios
+- mv = mover e renomear arquivos
+- rm = apagar
